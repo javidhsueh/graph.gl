@@ -4,11 +4,9 @@
   "author": "Javid Hsueh",
   "user": "javidhsueh",
   "version": "0.0.1",
-  "scripts": {
-  },
+  "scripts": {},
   "main": "index",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
@@ -18,6 +16,6 @@
     "react",
     "reactjs",
     "graph"
-  ],
+  ]
 }
 
