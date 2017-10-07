@@ -1,12 +1,12 @@
 {
-  "name": “graph.gl”,
-  "description": “graph.gl”,
+  "name": "graph.gl",
+  "description": "graph.gl",
   "author": "Javid Hsueh",
   "user": "javidhsueh",
-  "version": “0.0.1”,
+  "version": "0.0.1",
   "scripts": {
   },
-  "main": “index”,
+  "main": "index",
   "dependencies": {
   },
   "devDependencies": {},
@@ -17,7 +17,7 @@
   "keywords": [
     "react",
     "reactjs",
-    “graph”
+    "graph"
   ],
 }
 
