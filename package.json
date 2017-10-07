@@ -10,12 +10,16 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/javidhsueh/graph.gl.git"
+    "url": "git+https://github.com/javidhsueh/graph.gl.git"
   },
   "keywords": [
     "react",
     "reactjs",
     "graph"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/javidhsueh/graph.gl/issues"
+  },
+  "homepage": "https://github.com/javidhsueh/graph.gl#readme",
+  "license": "MIT"
 }
-
