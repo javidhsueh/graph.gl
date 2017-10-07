@@ -1,6 +1,23 @@
 {
-  "name": "graph.gl",
-  "author": "Javid Hsueh <javid@uber.com> (http://javid.me)",
-  "version": "0.0.1",
-  "main": "index"
+  "name": “graph.gl”,
+  "description": “graph.gl”,
+  "author": "Javid Hsueh",
+  "user": "javidhsueh",
+  "version": “0.0.1”,
+  "scripts": {
+  },
+  "main": “index”,
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javidhsueh/graph.gl.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    “graph”
+  ],
 }
+
